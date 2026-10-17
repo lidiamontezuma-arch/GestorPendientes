@@ -8,10 +8,11 @@ commits, pull requests y revisión del trabajo de otra persona.
 
 Completen sus nombres antes de comenzar. Si el grupo es de tres, dejen el cuarto espacio sin completar.
 
-- Integrante 1: 
-- Integrante 2: 
-- Integrante 3: 
-- Integrante 4: 
+- Integrante 1: Lidia
+- Integrante 2: Bryan
+- Integrante 3: Dereck 
+- Integrante 4: Snyder
+
 
 ## Abre y ejecuta el proyecto
 
